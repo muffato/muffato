@@ -2,11 +2,11 @@
 
 #### Topics of interest
 
-* :link: Reconstruction of phylogenetic trees and inference of orthologies
-* :skull: Reconstruction of ancestral genomes
+* :telescope: Reconstruction of phylogenetic trees and inference of orthologies
+* :crystal_ball: Reconstruction of ancestral genomes
 * :deciduous_tree: Tree of Life projects
 * :busts_in_silhouette: Whole genome duplications
-* :computer: High-throughput computing
+* :zap: High-throughput computing
 
 #### Publications
 
