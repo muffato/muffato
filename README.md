@@ -17,10 +17,10 @@ My ORCID iD is [0000-0002-7860-3560](http://orcid.org/0000-0002-7860-3560) and m
 
 They fall in these five topics:
 
-* Ensembl and TreeFam
-* Quest for Orthologues
+* [Ensembl](http://www.ensembl.org) and [TreeFam](http://www.treefam.org)
+* [Quest for Orthologues](https://questfororthologs.org)
 * Genome analysis
-* Genomicus and ancestral-genome reconstruction
+* [Genomicus](http://www.dyogen.ens.fr/genomicus/) and ancestral-genome reconstruction
 * Research in comparative genomics
 
 #### Development stats
